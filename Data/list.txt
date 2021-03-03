@@ -1,0 +1,38 @@
+-- ignore this
+
+apples x 5
+strawberries
+bananas
+blueberries
+asparagus x 2
+avocado
+
+salsa x 2
+pretzels
+
+can diced tomatoes
+shell pasta
+
+vegetable oil
+canned corn
+kidney beans x 2
+black beans
+tomato soup
+loaded potatoes
+chicken broth
+minced garlic
+
+dino nuggets
+
+salmon
+chicken breast
+ground beef x 2
+pork chops
+
+milk
+bread crumbs
+block cheese
+bread
+shredded cheddar x 2
+
+smiley fries

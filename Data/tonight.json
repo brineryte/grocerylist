@@ -1,8 +1,39 @@
 {
-  "chili": ["kidney beans", "salsa", "tomato soup", "chili powder", "ground beef"],
-  "salmon and asparagus": ["salmon", "asparagus", "smiley fries"],
-  "chicken tortilla soup": ["chicken breast", ""],
-  "hamburger helper": ["ground beef", "shell pasta", "shredded cheddar", "milk"],
-  "pork schnitzel": ["pork chops", "bread crumbs", "eggs", "oil", "loaded potatoes", "asparagus"]
+  "ignore this": [],
+  "chili": [
+    "kidney beans",
+    "salsa",
+    "tomato soup",
+    "chili powder",
+    "ground beef"
+  ],
+  "salmon and asparagus": [
+    "salmon",
+    "asparagus",
+    "smiley fries"
+  ],
+  "chicken tortilla soup": [
+    "chicken breast",
+    "black beans",
+    "diced tomatoes",
+    "salsa",
+    "canned corn",
+    "minced garlic",
+    "chicken broth"
+  ],
+  "hamburger helper": [
+    "ground beef",
+    "shell pasta",
+    "shredded cheddar",
+    "milk"
+  ],
+  "pork schnitzel": [
+    "pork chops",
+    "bread crumbs",
+    "eggs",
+    "oil",
+    "loaded potatoes",
+    "asparagus"
+  ]
 }
 
