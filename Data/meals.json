@@ -1,0 +1,20 @@
+{
+  "breakfast": {},
+  "lunch": {},
+  "dinner": {
+    "bacon and leek pasta": ["fusilli pasta", "bacon", "leeks", "heavy whipping cream", "grated parmesan"],
+    "baked ziti": ["ziti", "pasta sauce", "shredded mozzarella", "ricotta cheese"],
+    "broccoli cheddar soup": ["broccoli", "shredded cheddar", "half and half", "chicken broth", "onions", "carrots"],
+    "chicken parmesan": ["chicken breast", "bread crumbs", "oil", "pasta sauce", "mozzarella", "spaghetti"],
+    "chicken soup": ["chicken broth", "carrots", "onions", "chicken breast", "celery", "egg noodles"],
+    "chicken tortilla soup": ["chicken breast", ""],
+    "chili": ["kidney beans", "salsa", "tomato soup", "chili powder", "ground beef"],
+    "grilled cheese": ["deli cheese", "bread", "tomato soup"],
+    "ham and biscuits": ["loaded potato soup", "ham", "shredded cheddar", "frozen peas", "biscuits"],
+    "hamburger helper": ["ground beef", "shell pasta", "shredded cheddar", "milk"],
+    "one pot chicken": ["broccoli", "chicken breast", "red pepper", "rice", "chicken broth"],
+    "pork schnitzel": ["pork chops", "bread crumbs", "eggs", "oil", "loaded potatoes", "asparagus"],
+    "salmon and asparagus": ["salmon", "asparagus", "smiley fries"],
+    "spaghetti": ["spaghetti", "pasta sauce", "ground beef"]
+  }
+}

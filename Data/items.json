@@ -1,0 +1,76 @@
+{
+  "produce": {
+    "apples": true,
+    "strawberries": true,
+    "bananas": true,
+    "spinach": false,
+    "tomato": false,
+    "potatoes": false,
+    "onions": false,
+    "leeks": false,
+    "avocados": true,
+    "blueberries": true,
+    "carrots": true,
+    "broccoli": false,
+    "asparagus": false
+  },
+  "deli": {
+    "deli cheese": false,
+    "deli meats": false
+  },
+  "snacks": {
+    "pretzels": false,
+    "popcorn": false,
+    "tortilla chips": false,
+    "salsa": false,
+    "queso": false
+  },
+  "breakfast": {
+    "coffee": true,
+    "cereal": false,
+    "oatmeal": false,
+    "granola": false,
+    "granola bars": false,
+    "fruit snacks": false,
+    "syrup": false
+  },
+  "international": {
+    "spaghetti": false,
+    "shell pasta": false,
+    "pasta sauce": false,
+    "egg noodles": false,
+    "taco kit": false
+  },
+  "canned": {
+    "black beans": false,
+    "kidney beans": false,
+    "canned corn": false,
+    "tomato soup": false,
+    "cheesy shells": false,
+    "peas/carrots": false,
+    "gravy": false,
+    "chicken broth": false
+  },
+  "meats": {
+    "ground beef": false,
+    "chicken breast": false,
+    "pork chops": false
+  },
+  "paper": {
+    "paper plates": false,
+    "paper towels": false,
+    "toilet paper": false
+  },
+  "health": {},
+  "dairy": {
+    "eggs": true,
+    "butter": true,
+    "black cheese": true,
+    "shredded cheddar": true,
+    "bread": true,
+    "yogurt": true,
+    "peanut butter": false,
+    "jelly": false
+  },
+  "frozen": {}
+}
